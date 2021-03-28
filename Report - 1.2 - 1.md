@@ -44,9 +44,11 @@
 
 Не соответствует ОР
 
-[BR1-S2/P1-Некорректная итоговая сумма на счете VIP-клиента при зачислении](https://github.com/Alex-isk/HomeWork-J-2/issues/1)
+[Некорректная итоговая сумма на счете VIP-клиента при зачислении](https://github.com/Alex-isk/HomeWork-J-2/issues/1)
 
 ### Тестирование производилось в следующем окружении: ###
 
-macOS Catalina версия 10.15.7
-Google Chrome версия 88.0.4324.192 (Официальная сборка), (x86_64)
+* macOS Catalina версия 10.15.7 
+* IntelliJ IDEA 2020.3.2 (Community Edition)
+Runtime version: 11.0.9.1+11-b1145.77 x86_64
+VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.)
